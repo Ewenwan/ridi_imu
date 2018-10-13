@@ -1,4 +1,9 @@
 # RIDI: Robust IMU Double Integration
+
+[论文](https://arxiv.org/pdf/1712.09004.pdf)
+
+[官方](https://harsh-agarwal.github.io/Building-RIDI/)
+
 ## Prerequisite
   * Python: numpy, scipy, opencv-python (>3.0), numpy-quaternion, plyfile
   * C++: Glog, Gflags, OpenCV (>3.0), Eigen, Ceres-Solver, OpenMesh
